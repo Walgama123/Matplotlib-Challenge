@@ -25,6 +25,6 @@ study_results.csv: This file contains the details of study results of over the t
 - Calculate Correlation and Regression
 
 ## Folder structure 
-Main folder : Pymaceuticals (Note : pymaceuticals.ipynb should be inside this folder)
-Data source folder : Pymaceuticals/Data
-Summary Folder : Pymaceuticals/Summary 
+- Main folder : Pymaceuticals (Note : pymaceuticals.ipynb should be inside this folder)
+- Data source folder : Pymaceuticals/Data
+- Summary Folder : Pymaceuticals/Summary 
